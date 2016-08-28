@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\SteamShortcutCreator.exe.config
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\SteamShortcutCreator.exe
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\SteamShortcutCreator.pdb
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\SteamShortcutCreator.xml
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\Newtonsoft.Json.dll
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\bin\Release\Newtonsoft.Json.xml
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.vbprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.Form1.resources
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.Resources.resources
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.vbproj.GenerateResource.Cache
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.exe
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.xml
+D:\OneDrive\Projects\VB.net\SteamShortcutCreator\SteamShortcutCreator\obj\Release\SteamShortcutCreator.pdb
